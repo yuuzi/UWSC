@@ -1,0 +1,15 @@
+
+kbd(vk_x,0,250)
+
+kbd(vk_x,0,250)
+
+kbd(vk_x,0,250)
+
+kbd(vk_x,0,250)
+
+kbd(vk_x,0,250)
+
+kbd(vk_x,0,250)
+sleep(0.2)
+kbd(vk_space,0,500)
+sleep(0.5)

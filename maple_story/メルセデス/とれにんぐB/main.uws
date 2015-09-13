@@ -1,0 +1,10 @@
+while true
+kbd(vk_t,click,300)
+sleep(0.5)
+i = 0
+	while i < 10 
+		call ‰•œŽë‚è.uws
+		i = i + 1	
+	wend
+
+wend

@@ -1,0 +1,14 @@
+sleep(0.3)
+
+//ダークジャッジメント
+kbd(vk_a,click,100)
+
+sleep(1.8)
+
+//DP回復
+call 打撃.uws
+
+sleep(0.5)
+
+//ダークジャッジメント
+kbd(vk_a,click,100)

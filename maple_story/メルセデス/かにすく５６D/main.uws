@@ -1,0 +1,12 @@
+while true
+call ‰a.uws
+sleep(0.5)
+i = 0
+
+	while i < 5
+		call ‰•œŽë‚è.uws
+		i = i + 1
+	wend
+
+
+wend

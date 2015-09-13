@@ -1,0 +1,5 @@
+kbd(vk_down,1,1000)
+kbd(vk_c,0,100)
+kbd(vk_c,0,500)
+kbd(vk_c,0,600)
+kbd(vk_down,2,100)

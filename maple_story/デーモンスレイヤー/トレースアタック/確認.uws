@@ -1,0 +1,5 @@
+	ifb CHKIMG("./Šm”F.bmp",0)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,0,x,y,40)
+	wend

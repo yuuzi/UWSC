@@ -1,0 +1,33 @@
+while true
+i = 0
+sleep(0.3)
+//call 餌.uws
+
+while true
+
+	call 補助スキル.uws
+	call 左向く.uws
+
+		while i < 7
+			call 打撃ラッシュ.uws
+			i = i + 1
+		wend
+	i=0
+
+	call 右向く.uws
+	call 降りる.uws
+
+		while i < 7
+			call 打撃ラッシュ.uws
+			i = i + 1
+		wend
+	i=0
+
+	call 上FJ.uws
+
+wend
+
+//call 脱出.uws
+//call ReIN.uws
+//call 画面右移動.uws
+wend

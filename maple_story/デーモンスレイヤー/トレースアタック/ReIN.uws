@@ -1,0 +1,13 @@
+sleep(1)
+
+kbd(vk_up,0,100)
+kbd(vk_up,1,100)
+kbd(vk_up,2,100)
+
+sleep(5)
+
+kbd(vk_up,0,100)
+kbd(vk_up,1,100)
+kbd(vk_up,2,100)
+
+sleep(5)

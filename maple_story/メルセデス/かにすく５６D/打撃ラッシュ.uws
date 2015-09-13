@@ -1,0 +1,3 @@
+call ‘ÅŒ‚.uws
+kbd(vk_ctrl,0,400)
+sleep(1)

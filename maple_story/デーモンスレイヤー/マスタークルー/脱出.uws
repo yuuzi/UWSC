@@ -1,0 +1,11 @@
+kbd(vk_left,click,10)
+kbd(vk_left,down,10)
+kbd(vk_left,up,3800)
+//¶ˆÚ“®
+
+kbd(vk_c,click,200)
+//ƒWƒƒƒ“ƒv
+
+kbd(vk_up,click,200)
+kbd(vk_up,down,10)
+kbd(vk_up,up,100)

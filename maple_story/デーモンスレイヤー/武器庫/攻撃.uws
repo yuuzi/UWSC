@@ -1,0 +1,33 @@
+call 補助スキル.uws
+
+call 左向く.uws
+
+i = 0
+
+//ラッシュ＆打撃で攻撃
+while i < 4 
+call 打撃ラッシュ.uws
+i=i+1
+wend
+i = 0
+call 打撃.uws
+
+call 左向く.uws
+call 左向く.uws
+call 左向く.uws
+call 左向く.uws
+call 右向く.uws
+
+//ラッシュ＆打撃で攻撃
+while i < 2 
+call 打撃ラッシュ.uws
+i=i+1
+wend
+i = 0
+call 打撃.uws
+
+call 2段目移動.uws
+sleep(0.5)
+call 2段目攻撃.uws
+
+call 画面右移動.uws

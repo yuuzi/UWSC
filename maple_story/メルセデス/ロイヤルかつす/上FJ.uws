@@ -1,0 +1,5 @@
+kbd(vk_c,click,1000)
+
+kbd(vk_up,click,200)
+kbd(vk_up,down,10)
+kbd(vk_up,up,100)

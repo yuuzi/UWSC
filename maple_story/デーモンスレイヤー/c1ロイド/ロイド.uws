@@ -1,0 +1,10 @@
+while true
+i = 0
+sleep(0.3)
+call ‰a.uws
+	while i < 9
+		call UŒ‚.uws
+		i = i + 1
+	wend
+	i = 0
+wend

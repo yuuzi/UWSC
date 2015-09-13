@@ -1,0 +1,32 @@
+while true
+i = 0
+sleep(0.3)
+call 餌.uws
+ii = 0
+while ii <8 
+	kbd(vk_b,click,300)
+	sleep(0.5)
+	call 補助スキル.uws
+
+
+	while i < 8
+		call 打撃ラッシュ.uws
+		i = i + 1
+	wend
+	call 右向く.uws
+	i=0
+	
+	while i < 8
+		call 打撃ラッシュ.uws
+		i = i + 1
+	wend
+	call 左向く.uws
+	i=0
+ii = ii + 1
+wend
+
+
+//call 脱出.uws
+//call ReIN.uws
+//call 画面右移動.uws
+wend

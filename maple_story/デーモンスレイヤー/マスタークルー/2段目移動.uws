@@ -1,0 +1,13 @@
+
+//2’i–ÚˆÚ“®
+kbd(vk_c,click,1000)
+
+kbd(vk_up,click,200)
+kbd(vk_up,down,10)
+kbd(vk_up,up,100)
+
+kbd(vk_down,1,1000)
+kbd(vk_c,0,100)
+kbd(vk_c,0,500)
+kbd(vk_c,0,600)
+kbd(vk_down,2,100)
