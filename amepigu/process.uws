@@ -1,0 +1,29 @@
+ifb chkimg("box.bmp",0)
+ x = G_IMG_X
+ y = G_IMG_Y
+ BTN(LEFT,0,x,y,40)
+endif
+
+ifb chkimg("box2.bmp",0)
+ x = G_IMG_X
+ y = G_IMG_Y
+ BTN(LEFT,0,x,y,40)
+endif
+
+ifb chkimg("box3.bmp",0)
+ x = G_IMG_X
+ y = G_IMG_Y
+ BTN(LEFT,0,x,y,40)
+endif
+
+ifb chkimg("pink.bmp",0)
+ x = G_IMG_X
+ y = G_IMG_Y
+ BTN(LEFT,0,x,y,40)
+endif
+
+ifb chkimg("pink2.bmp",0)
+ x = G_IMG_X
+ y = G_IMG_Y
+ BTN(LEFT,0,x,y,40)
+endif
