@@ -1,0 +1,5 @@
+	ifb chkimg("–ß‚é.bmp",200)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,200)
+	endif

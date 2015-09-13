@@ -1,0 +1,14 @@
+ACW(GETID("yuushi-no-iPhone","VNCMDI_Window"),-1080,0,1083,1923,0)
+ifb chkimg("êÌì¨ÉVÅ[Éì.bmp",0)
+
+
+while true
+BTN(LEFT,CLICK,-874,1099,78)
+BTN(LEFT,CLICK,-874,1099,78)
+BTN(LEFT,CLICK,-874,1099,62)
+BTN(LEFT,CLICK,-874,1099,62)
+BTN(LEFT,CLICK,-874,1099,63)
+BTN(LEFT,CLICK,-874,1099,78)
+
+endif
+wend

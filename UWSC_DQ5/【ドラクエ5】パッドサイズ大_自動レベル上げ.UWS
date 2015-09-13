@@ -1,0 +1,37 @@
+ACW(GETID("yuushi-no-iPhone","VNCMDI_Window"),-1080,0,1083,1923,0)
+
+while true
+
+
+ifb chkimg("戦闘シーン.bmp",0)
+
+call 攻撃.UWS
+
+else
+
+BTN(LEFT,DOWN,-843,1076,297)
+CALL 戻る.UWS
+BTN(LEFT,UP,-843,1076,2500)
+CALL 戻る.UWS
+
+	ifb chkimg("戦闘シーン.bmp",0)
+	call 戻る.UWS
+	call 攻撃.UWS
+	call 戻る.UWS
+	endif
+
+
+BTN(LEFT,DOWN,-558,1085,579)
+call 戻る.UWS
+BTN(LEFT,UP,-558,1085,3484)
+call 戻る.UWS
+
+	IFB chkimg("戦闘シーン.bmp",0)
+	call 戻る.UWS
+	call 攻撃.UWS
+	call 戻る.UWS
+	endif
+
+endif
+
+wend
