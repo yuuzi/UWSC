@@ -1,0 +1,40 @@
+
+		ifb chkimg("coindanjon.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("kounyuu.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("migisita.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+	
+		ifb chkimg("coinmigi.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+	
+	
+		ifb chkimg("coinmigigray.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+	
+		ifb chkimg("migisita_kuro.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+	
+
+		

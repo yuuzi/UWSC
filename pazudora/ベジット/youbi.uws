@@ -1,0 +1,107 @@
+
+		ifb chkimg("supesharu.bmp",1000)
+		BTN(LEFT,DOWN,-358,1194,4516)
+		BTN(LEFT,UP,-358,1194,2641)
+		endif
+
+
+
+		ifb chkimg("supesharu2.bmp",1000)
+		BTN(LEFT,DOWN,-470,996,218)
+		BTN(LEFT,UP,-470,996,1188)
+		endif
+
+
+
+		ifb chkimg("youbi.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("youbi2.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("youbi2.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("mokuyouchuukyuu.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+
+		ifb chkimg("1banme.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+//		ifb chkimg("2banme.bmp",1000)
+//		x = G_IMG_X
+//		y = G_IMG_Y
+//		BTN(LEFT,CLICK,x,y,800)
+//		endif
+
+//		ifb chkimg("3banme.bmp",1000)
+//		x = G_IMG_X
+//		y = G_IMG_Y
+//		BTN(LEFT,CLICK,x,y,800)
+//		endif
+
+//		ifb chkimg("2banmegray.bmp",1000)
+//		x = G_IMG_X
+//		y = G_IMG_Y
+//		BTN(LEFT,CLICK,x,y,800)
+//		endif
+
+		ifb chkimg("kinnyoujoukyuu.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		
+		ifb chkimg("mokuyouchuukyuugray.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("kinnyoujoukyuugray.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("doniti.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+
+		ifb chkimg("doniti2.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("jigoku.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif
+
+		ifb chkimg("jigokugray.bmp",1000)
+		x = G_IMG_X
+		y = G_IMG_Y
+		BTN(LEFT,CLICK,x,y,800)
+		endif

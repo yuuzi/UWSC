@@ -1,0 +1,31 @@
+	ifb chkimg("tekunikaru.bmp",1000)
+	BTN(LEFT,DOWN,-471,502,234)
+	BTN(LEFT,UP,-471,502,1094)
+	BTN(LEFT,CLICK,-471,502,765)
+	endif
+
+	ifb chkimg("reki.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("reki2.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("kagayaku.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("teku2ue.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif

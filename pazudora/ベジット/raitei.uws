@@ -1,0 +1,17 @@
+	ifb chkimg("raitei.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("jupiteru.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("tenku.bmp",1000)m
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif

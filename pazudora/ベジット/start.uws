@@ -1,0 +1,96 @@
+
+	ifb chkimg("sentaku.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("sentaku2.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("sentaku3.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("chousen.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("chousen2.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("ok.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	BTN(LEFT,CLICK,x,y,80)
+	endif
+
+	ifb chkimg("clear.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y+300,800)
+	endif
+
+	ifb chkimg("friend_ok.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("okok.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("okokok.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("okokokok.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("cure.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("cure2.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("friend_sinsei.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("clear_next.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif

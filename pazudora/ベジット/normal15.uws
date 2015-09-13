@@ -1,0 +1,25 @@
+	ifb chkimg("ritsu.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("ritu.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("1banue.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+	ifb chkimg("1banuegray.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+

@@ -1,0 +1,29 @@
+	ifb chkimg("nepunepu.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("umi.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("hara.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("umiumi.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("nepu.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif

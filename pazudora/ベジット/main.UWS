@@ -1,0 +1,40 @@
+ACW(GETID("yuushi-no-iPhone","VNCMDI_Window"),-1080,0,1083,1923,0)
+
+while true
+
+
+	ifb chkimg("ritu.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+	ifb chkimg("green.bmp",1000)
+	x = G_IMG_X
+	y = G_IMG_Y
+	BTN(LEFT,CLICK,x,y,800)
+	endif
+
+
+
+	//select map
+//	call raitei.uws
+//	call tenkaisin.uws
+	call junosu.uws
+	call rekiryuu.uws
+	call normal15.uws
+	call coin.uws
+	call youbi.uws
+
+	//select friend
+	call bejitto.uws
+
+	//game start
+	call start.uws
+
+	//game start
+	call start.uws
+
+	sleep(1)
+
+wend
